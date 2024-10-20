@@ -1,4 +1,4 @@
-#include <lib.h>
+#include "lib.h"
 
 //@lib helloworld
 extern void helloworld()
